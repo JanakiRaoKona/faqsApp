@@ -1,0 +1,18 @@
+/* Write your code here. */
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.question-tag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-cont {
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+}
